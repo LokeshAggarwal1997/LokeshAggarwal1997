@@ -8,7 +8,7 @@ My name is Lokesh Aggarwal, I hold a bachelor's Degree in Computer Science Engin
 
 - 👨‍💻 All of my projects are available at [https://github.com/LokeshAggarwal1997](https://github.com/LokeshAggarwal1997)
 
-- 📝 I write articles on [https://anantharajuc.github.io](https://anantharajuc.github.io)
+- 📝 I write articles on [Articles](https://blog.knoldus.com/author/lokeshaggarwal090297/)
 
 - 💬 Ask me about **Java, Spring Boot, OOP, Web Applications, RESTful APIs, Database, CAI**
 
